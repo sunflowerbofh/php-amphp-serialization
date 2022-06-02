@@ -1,0 +1,5 @@
+amphp-serialization (1.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1012249).
+
+ -- Katharina Drexel <katharina.drexel@bfh.ch>  Wed, 04 May 2022 10:01:49 +0200
